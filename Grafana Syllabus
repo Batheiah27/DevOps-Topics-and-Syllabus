@@ -1,0 +1,101 @@
+Grafana Topics
+
+Grafana Basics
+* What is Grafana & why it is used
+* Grafana architecture
+* Data source concept
+* Dashboards & Panels
+
+🔹 Grafana Architecture
+* Grafana Server
+* Data Sources
+* Dashboards
+* Users & Organizations
+
+🔹 Data Sources
+* Prometheus
+* Elasticsearch
+* InfluxDB
+* MySQL
+* PostgreSQL
+
+🔹 Dashboards
+* Creating dashboards
+* Importing dashboards
+* Exporting dashboards
+* Dashboard variables
+* Folder organization
+
+🔹 Panels & Visualizations
+* Time series
+* Bar chart
+* Gauge
+* Pie chart
+* Table panel
+* Heatmap
+
+🔹 Queries
+* Writing PromQL queries
+* Transformations
+* Query inspector
+
+🔹 Alerts (Grafana Alerting)
+* Alert rules
+* Contact points
+* Notification policies
+* Alert templates
+
+🔹 Users & Security
+* Users & roles (Admin, Editor, Viewer)
+* Authentication (LDAP, OAuth)
+* API keys
+
+🔹 Grafana with Kubernetes
+* Deploying Grafana on Kubernetes
+* ConfigMaps for dashboards
+* Helm installation
+
+🔹 Grafana with Docker
+* Running Grafana in Docker
+
+🔹 Grafana with CI/CD
+* Dashboard versioning using Git
+* Automation using Jenkins
+
+🔹 Provisioning
+* Datasource provisioning
+* Dashboard provisioning
+* Alert provisioning
+
+🔹 Plugins
+* Panel plugins
+* Datasource plugins
+* App plugins
+
+🔹 Performance & Scaling
+* Caching
+* High availability setup
+* Database optimization
+
+🔹 Backup & Restore
+* Grafana database backup
+* Dashboard JSON backup
+
+🔹 Troubleshooting
+* Datasource connection issues
+* Empty dashboards
+* Alert not firing
+* High memory usage
+
+🔹 Best Practices
+* Use variables
+* Reusable dashboards
+* Naming conventions
+* Folder structure
+
+🔹 Common Interview Questions
+* What is Grafana?
+* Grafana vs Prometheus?
+* How do you create alerts in Grafana?
+* What are dashboard variables?
+* How do you integrate Grafana with Prometheus?
