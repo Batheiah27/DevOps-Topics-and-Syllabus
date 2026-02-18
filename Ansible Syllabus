@@ -1,0 +1,102 @@
+Ansible Topics
+
+🔹 Ansible Basics
+* What is Ansible & why it is used
+* Agentless architecture
+* Push vs Pull model
+* Inventory file
+* YAML syntax
+
+🔹 Ansible Architecture
+* Control Node
+* Managed Nodes
+* Inventory
+* Modules
+* Plugins
+
+🔹 Playbooks
+* Playbook structure
+* Tasks, Plays, Hosts
+* Handlers
+* Variables
+* Tags
+
+🔹 Modules
+* file
+* copy
+* template
+* yum / apt
+* service / systemd
+* shell vs command
+
+🔹 Variables & Facts
+* Host vars & Group vars
+* Register variables
+* Ansible facts
+* set_fact
+
+🔹 Loops & Conditionals
+* loop / with_items
+* when condition
+* until / retries
+
+🔹 Roles
+* Role structure
+* defaults, vars, tasks, handlers, templates
+* Reusable roles
+
+🔹 Templates
+* Jinja2 templates
+* Variable substitution
+* Condition inside templates
+
+🔹 Handlers & Notifications
+* notify
+* handler execution order
+
+🔹 Error Handling
+* ignore_errors
+* failed_when
+* block, rescue, always
+
+🔹 Vault (Security)
+* Ansible Vault
+* Encrypt/decrypt files
+* Vault password file
+
+🔹 Inventory Management
+* Static inventory
+* Dynamic inventory
+
+🔹 Ansible with CI/CD
+* Using Ansible in Jenkins
+* Running playbooks in pipeline
+
+🔹 Ansible with Containers
+* Managing Docker using Ansible
+
+🔹 Ansible with Kubernetes
+* Kubernetes modules
+* Deploying manifests using Ansible
+* Integration with Kubernetes
+
+🔹 Cloud Automation
+* Provisioning on Amazon Web Services (AWS modules)
+* EC2, S3, IAM automation
+
+🔹 Ansible Galaxy
+* Installing roles
+* Creating custom roles
+
+🔹 Best Practices
+* Idempotency
+* Use roles
+* Avoid shell when module exists
+* Version control with Git
+
+🔹 Common Interview Questions
+* What is Ansible?
+* Difference between playbook and role?
+* What is handler?
+* Shell vs Command module?
+* How do you secure passwords?
