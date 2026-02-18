@@ -1,0 +1,91 @@
+Docker Topics
+
+🔹 Docker Basics
+* What is Docker & why it is used
+* Containers vs Virtual Machines
+* Docker architecture
+* Docker installation
+* Docker CLI basics
+
+🔹 Docker Architecture
+* Docker Engine
+* Docker Daemon
+* Docker Client
+* Docker Registry
+
+🔹 Docker Images
+* What is an image
+* Image layers
+* Pulling images
+* Building images
+* Tagging images
+
+🔹 Docker Containers
+* Create/start/stop containers
+* Running containers in background
+* Container lifecycle
+* Inspect container
+
+🔹 Dockerfile
+* Dockerfile structure
+* FROM, RUN, COPY, ADD
+* CMD vs ENTRYPOINT
+* EXPOSE
+* WORKDIR
+* Multi-stage builds
+
+🔹 Docker Volumes & Storage
+* Volumes
+* Bind mounts
+* tmpfs mounts
+* Data persistence
+
+🔹 Docker Networking
+* Bridge network
+* Host network
+* Overlay network
+* Port mapping
+
+🔹 Docker Compose
+* docker-compose.yml
+* Multi-container applications
+* Services, networks, volumes
+
+🔹 Docker Registry
+* Docker Hub
+* Private registry
+* Pushing & pulling images
+
+🔹 Docker Security
+* Image scanning
+* Running as non-root
+* Secrets management
+
+🔹 Docker with CI/CD
+* Build images using Jenkins
+* Push image after build
+* Automated pipelines
+
+🔹 Docker with Kubernetes
+* Containers in Kubernetes
+* Docker image in Pods
+* Kubernetes deployment using Docker image
+
+🔹 Troubleshooting
+* Container not starting
+* Port issues
+* Disk space issues
+* Logs analysis
+
+🔹 Best Practices
+* Small base images
+* Use .dockerignore
+* Multi-stage builds
+* Tag images properly
+
+🔹 Common Interview Questions
+* Difference between image and container?
+* CMD vs ENTRYPOINT?
+* What is Dockerfile?
+* How to reduce image size?
+* What is Docker Compose?
