@@ -1,0 +1,95 @@
+Prometheus Topics
+
+Prometheus Basics
+* What is Prometheus & why it is used
+* Time-series database (TSDB)
+* Pull-based monitoring model
+* Prometheus architecture
+
+🔹 Prometheus Architecture
+* Prometheus Server
+* Targets
+* Exporters
+* Pushgateway
+* Alertmanager
+
+🔹 Metrics & Data Model
+* Metric types:
+    * Counter
+    * Gauge
+    * Histogram
+    * Summary
+* Labels
+* Time series
+
+🔹 PromQL (Prometheus Query Language)
+* Basic queries
+* Aggregation (sum, avg, max, min)
+* Rate & increase
+* Filtering using labels
+
+🔹 Exporters
+* Node Exporter
+* Blackbox Exporter
+* Application exporters (Java, Python, etc.)
+
+🔹 Service Discovery
+* Static configs
+* File-based discovery
+* Kubernetes service discovery
+
+🔹 Alerting
+* Alert rules
+* Alertmanager configuration
+* Alert routing
+* Alert grouping
+
+🔹 Visualization
+* Integrating with Grafana
+* Creating dashboards
+* Importing dashboards
+
+🔹 Prometheus with Kubernetes
+* Monitoring cluster using Kubernetes
+* kube-state-metrics
+* Pod & Node monitoring
+
+🔹 Prometheus with Docker
+* Running Prometheus in Docker
+* Docker metrics
+
+🔹 Prometheus with CI/CD
+* Monitoring pipelines from Jenkins
+* Build & job metrics
+
+🔹 Storage & Retention
+* Local storage
+* Retention time
+* Data compaction
+
+🔹 Security
+* Authentication & authorization
+* TLS configuration
+
+🔹 High Availability (HA)
+* Prometheus federation
+* Thanos / Cortex overview
+
+🔹 Troubleshooting
+* Target down
+* Missing metrics
+* High memory usage
+* Slow queries
+
+🔹 Best Practices
+* Proper labeling
+* Use recording rules
+* Separate alert rules
+* Regular backup
+
+🔹 Common Interview Questions
+* What is Prometheus?
+* Pull vs Push model?
+* What is PromQL?
+* Difference between Counter and Gauge?
+* How does Alertmanager work?
