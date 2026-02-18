@@ -1,0 +1,116 @@
+Shell Scripting topics as a devops engineer
+
+
+Shell Scripting Basics
+* What is Shell & Bash
+* Shebang (#!/bin/bash)
+* Script execution permissions
+* Comments
+
+🔹 Variables & Data Types
+* User-defined variables
+* Environment variables
+* Read-only variables
+* Export variables
+
+🔹 Input / Output
+* read command
+* echo / printf
+* Command substitution ($( ))
+
+🔹 Conditional Statements
+* if, if-else, elif
+* case statement
+* Test operators
+    * String
+    * Numeric
+    * File
+
+🔹 Loops
+* for loop
+* while loop
+* until loop
+* break & continue
+
+🔹 Functions
+* Creating functions
+* Passing arguments
+* Returning values
+
+🔹 Positional Parameters
+* $0, $1, $2 ...
+* $@, $*, $#
+
+🔹 File & Directory Handling
+* Create, delete, move, copy files
+* File existence check
+* Directory traversal
+
+🔹 Text Processing Commands
+* grep
+* awk
+* sed
+* cut
+* sort
+* uniq
+* tr
+
+🔹 Process Management
+* ps
+* top
+* kill
+* nohup
+* background (&) jobs
+
+🔹 Disk & Memory Monitoring
+* df
+* du
+* free
+* uptime
+
+🔹 Exit Codes & Error Handling
+* $?
+* set -e
+* trap
+
+🔹 Logging
+* Redirect output (>, >>, 2>)
+* Log files
+* Timestamped logs
+
+🔹 Automation Use Cases
+* Backup scripts
+* Log cleanup scripts
+* Health check scripts
+* User creation scripts
+
+🔹 Shell with CI/CD
+* Running shell scripts in Jenkins
+* Pre-build & post-build scripts
+
+🔹 Shell with Containers
+* Entry-point scripts in Docker
+
+🔹 Shell with Kubernetes
+* Init container scripts
+* Startup scripts in Kubernetes Pods
+
+🔹 Shell with Cloud
+* Automation for Amazon Web Services CLI
+* Resource cleanup scripts
+
+🔹 Version Control
+* Store scripts in Git
+
+🔹 Best Practices
+* Use functions
+* Add comments
+* Validate inputs
+* Avoid hardcoding
+* Use meaningful variable names
+
+🔹 Common Interview Questions
+* Difference between #!/bin/bash and #!/bin/sh?
+* How do you handle errors in shell script?
+* How to schedule scripts? (cron)
+* How to check script exit status?
