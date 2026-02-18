@@ -1,0 +1,124 @@
+Jenkins Topics 
+
+
+🔹 Jenkins Basics
+* What is Jenkins & why it is used
+* CI/CD concept
+* Jenkins architecture (Master/Controller & Agents)
+* Jenkins installation on Linux/Windows
+* Jenkins dashboard overview
+
+🔹 Jobs & Build Types
+* Freestyle Job
+* Pipeline Job
+* Multibranch Pipeline
+* Folder Jobs
+
+🔹 Jenkins Pipeline
+* Declarative Pipeline
+* Scripted Pipeline
+* Jenkinsfile structure
+* Stages & Steps
+* Post conditions
+* Environment variables
+
+🔹 SCM Integration
+* Jenkins with Git
+* Webhooks
+* Poll SCM
+* Credentials setup
+
+🔹 Jenkins Agents (Nodes)
+* Static agents
+* Dynamic agents
+* SSH agents
+* Label-based node selection
+
+🔹 Plugins
+* Plugin installation
+* Updating plugins
+* Popular plugins:
+    * Git Plugin
+    * Pipeline Plugin
+    * Blue Ocean
+    * Email Extension
+
+🔹 Credentials Management
+* Username & Password
+* SSH Keys
+* Tokens
+* Credentials Binding
+
+🔹 Jenkins with Containers
+* Jenkins with Docker
+* Docker agent in pipeline
+* Building Docker images
+* Pushing images to registry
+
+🔹 Jenkins with Kubernetes
+* Jenkins on Kubernetes
+* Kubernetes plugin
+* Pod templates
+* Dynamic pods
+
+🔹 CI/CD Flow
+* Build → Test → Code Scan → Package → Deploy
+* Artifact repository integration
+* Blue/Green & Rolling deployment
+
+🔹 Security
+* Users & roles
+* RBAC
+* CSRF protection
+* Securing Jenkins URL
+
+🔹 Notifications
+* Email notifications
+* Slack notifications
+* Build status alerts
+
+🔹 Backup & Recovery
+* Jenkins home backup
+* Restore Jenkins
+
+🔹 Troubleshooting
+* Build failures
+* Plugin issues
+* Disk space issues
+* Jenkins service not starting
+
+🔹 Common Interview Questions
+* Difference between Freestyle & Pipeline
+* Declarative vs Scripted pipeline
+* How to secure Jenkins?
+* How to create dynamic agents?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
