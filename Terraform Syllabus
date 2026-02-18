@@ -1,0 +1,91 @@
+Terraform Topics
+
+🔹 Terraform Basics
+* What is Terraform & why it is used
+* Infrastructure as Code (IaC)
+* Terraform workflow (init, plan, apply, destroy)
+* Terraform CLI
+
+🔹 Terraform Architecture
+* Terraform Core
+* Providers
+* State file
+
+🔹 Providers
+* What is a provider
+* Provider configuration
+* Multiple providers
+
+🔹 Resources
+* Resource blocks
+* Creating infrastructure
+* Updating & deleting resources
+
+🔹 Variables & Outputs
+* Input variables
+* Variable types
+* tfvars files
+* Output values
+
+🔹 Terraform State
+* terraform.tfstate
+* Local state
+* Remote backend
+* State locking
+
+🔹 Backends
+* Local backend
+* Remote backend (S3, Terraform Cloud, etc.)
+
+🔹 Modules
+* What is a module
+* Reusable modules
+* Module source (local, git, registry)
+
+🔹 Terraform with Cloud
+* Provisioning on Amazon Web Services
+* EC2, VPC, IAM, S3 using Terraform
+
+🔹 Terraform with Kubernetes
+* Creating clusters
+* Managing Kubernetes resources using Terraform
+* Integration with Kubernetes
+
+🔹 Terraform with CI/CD
+* Running Terraform in Jenkins pipeline
+* Automated plan & apply
+
+🔹 Workspaces
+* Managing multiple environments (dev, test, prod)
+
+🔹 Terraform Functions
+* Built-in functions
+* Expressions
+
+🔹 Provisioners
+* File provisioner
+* Local-exec
+* Remote-exec
+
+🔹 Security
+* Secrets management
+* Sensitive variables
+* State file encryption
+
+🔹 Best Practices
+* Use remote backend
+* Use modules
+* Version control with Git
+* Small reusable code
+
+🔹 Troubleshooting
+* State mismatch
+* Provider errors
+* Dependency issues
+
+🔹 Common Interview Questions
+* What is Terraform state?
+* Difference between resource and module?
+* What is backend?
+* How do you manage multiple environments?
+* Terraform vs Ansible?
