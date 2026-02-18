@@ -1,0 +1,87 @@
+SonarQube Topics
+
+🔹 SonarQube Basics
+* What is SonarQube & why it is used
+* Static code analysis
+* Code quality vs code security
+* Supported programming languages
+
+🔹 SonarQube Architecture
+* SonarQube Server
+* Database (PostgreSQL/MySQL/Oracle)
+* Scanner (CLI / Build tool plugins)
+
+🔹 Key Concepts
+* Bugs
+* Vulnerabilities
+* Code Smells
+* Technical Debt
+* Maintainability / Reliability / Security
+
+🔹 Quality Profiles
+* What is a Quality Profile
+* Default vs Custom profile
+* Rule activation/deactivation
+
+🔹 Quality Gates
+* What is a Quality Gate
+* Default Quality Gate
+* Custom Quality Gates
+* Failing builds based on Quality Gate
+
+🔹 SonarScanner
+* SonarScanner CLI
+* Maven Scanner
+* Gradle Scanner
+* MSBuild Scanner
+
+🔹 SonarQube with CI/CD
+* Integrating SonarQube with Jenkins
+* Integrating with Git
+* Running scan in pipeline
+
+🔹 Authentication & Security
+* Tokens
+* Users & Groups
+* Permissions
+* LDAP / AD integration
+
+🔹 Branch & PR Analysis
+* Branch analysis
+* Pull Request decoration
+* New code vs Overall code
+
+🔹 Issues Management
+* Assigning issues
+* False positive
+* Won’t fix
+* Confirmed
+
+🔹 Reports & Dashboards
+* Project dashboard
+* Measures
+* Activity history
+
+🔹 SonarQube with Containers
+* SonarQube using Docker
+* Running SonarQube as container
+
+🔹 SonarQube with Kubernetes
+* Deploying SonarQube on Kubernetes
+* Helm charts
+
+🔹 Backup & Restore
+* Database backup
+* SonarQube data directory backup
+
+🔹 Troubleshooting
+* Scanner authentication errors
+* Project not appearing
+* Quality Gate failure
+* Memory issues
+
+🔹 Common Interview Questions
+* What is Quality Gate?
+* Difference between Bug, Vulnerability & Code Smell?
+* How to fail Jenkins build if Quality Gate fails?
+* How do you integrate SonarQube with Jenkins?
