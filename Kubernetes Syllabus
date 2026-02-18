@@ -1,0 +1,104 @@
+Kubernetes Topics 
+
+🔹 Kubernetes Basics
+* What is Kubernetes & why it is used
+* Container orchestration concept
+* Kubernetes architecture
+* Control Plane & Worker Nodes
+* Cluster components overview
+
+🔹 Kubernetes Architecture
+* API Server
+* etcd
+* Controller Manager
+* Scheduler
+* Kubelet
+* Kube-Proxy
+
+🔹 Core Objects
+* Pod
+* ReplicaSet
+* Deployment
+* Service
+* Namespace
+
+🔹 Workload Resources
+* Deployment
+* StatefulSet
+* DaemonSet
+* Job
+* CronJob
+
+🔹 Services & Networking
+* ClusterIP
+* NodePort
+* LoadBalancer
+* Ingress
+* DNS in Kubernetes
+
+🔹 Configuration Management
+* ConfigMap
+* Secret
+* Environment variables
+* Volume mounts
+
+🔹 Storage
+* Volumes
+* PersistentVolume (PV)
+* PersistentVolumeClaim (PVC)
+* StorageClass
+
+🔹 Scheduling & Scaling
+* Node selectors
+* Taints & Tolerations
+* Affinity & Anti-affinity
+* Horizontal Pod Autoscaler (HPA)
+
+🔹 Security
+* RBAC
+* Service Accounts
+* Network Policies
+* Secrets encryption
+
+🔹 Kubernetes with Containers
+* Using images from Docker
+* Container lifecycle in Pod
+
+🔹 Kubernetes with CI/CD
+* Deploying using Jenkins
+* Rolling deployments
+* Blue/Green & Canary deployments
+
+🔹 Helm (Package Manager)
+* What is Helm
+* Helm charts
+* Values.yaml
+* Install/Upgrade/Rollback
+
+🔹 Monitoring & Logging
+* Metrics Server
+* Prometheus & Grafana
+* Centralized logging
+
+🔹 Kubernetes on Cloud
+* Kubernetes on Amazon Web Services
+* Managed Kubernetes services
+
+🔹 Troubleshooting
+* kubectl describe
+* kubectl logs
+* Pod in CrashLoopBackOff
+* ImagePullBackOff
+
+🔹 Best Practices
+* Resource requests & limits
+* Liveness & Readiness probes
+* Namespace separation
+* Version control YAML using Git
+
+🔹 Common Interview Questions
+* Difference between Pod and Deployment?
+* What is ConfigMap vs Secret?
+* How does HPA work?
+* What is Ingress?
+* How do you troubleshoot a failed Pod?
