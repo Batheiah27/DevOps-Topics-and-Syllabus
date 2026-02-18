@@ -1,0 +1,131 @@
+Linux Topics as a Devops engineer
+
+Linux Basics
+* Linux architecture
+* Kernel vs User space
+* File system hierarchy (/etc, /var, /usr, /home, /opt)
+* Linux distributions overview
+
+🔹 File & Directory Management
+* ls, cp, mv, rm, mkdir, rmdir
+* find, locate
+* stat, file
+
+🔹 Permissions & Ownership
+* chmod
+* chown
+* chgrp
+* umask
+
+🔹 User & Group Management
+* useradd, userdel, usermod
+* groupadd, groupdel
+* passwd
+* sudo
+
+🔹 Process Management
+* ps
+* top / htop
+* kill / killall
+* nice / renice
+* bg / fg
+
+🔹 Package Management
+* yum / dnf
+* apt
+* rpm / dpkg
+
+🔹 Disk & File System Management
+* df
+* du
+* mount / umount
+* lsblk
+* fdisk / parted
+* mkfs
+
+🔹 Networking
+* ip a / ip r
+* ping
+* netstat / ss
+* curl
+* wget
+* telnet / nc
+
+🔹 Service Management
+* systemctl start/stop/status
+* Enable/disable services
+* Understanding systemd
+
+🔹 Logs & Monitoring
+* journalctl
+* /var/log/messages
+* /var/log/syslog
+* dmesg
+
+🔹 Shell & Scripting
+* Bash basics using Bash
+* Variables & loops
+* Functions
+* Error handling
+
+🔹 Archiving & Compression
+* tar
+* gzip / gunzip
+* zip / unzip
+
+🔹 SSH & Remote Access
+* ssh
+* scp
+* rsync
+* SSH key-based authentication
+
+🔹 Firewall & Security
+* firewall-cmd
+* iptables
+* SELinux modes
+* Fail2ban
+
+🔹 Scheduling Jobs
+* crontab
+* at
+
+🔹 Linux with Containers
+* Managing containers using Docker** on Linux
+* Image & container troubleshooting
+
+🔹 Linux with Kubernetes
+* Worker node basics
+* kubelet service
+* Troubleshooting Pods on Kubernetes nodes
+
+🔹 Linux with CI/CD
+* Running scripts via Jenkins
+* Agent configuration
+
+🔹 Linux with Cloud
+* Managing Linux on Amazon Web Services
+* EC2 troubleshooting
+
+🔹 Performance Tuning
+* CPU usage
+* Memory usage
+* Disk I/O
+* Load average
+
+🔹 Backup & Recovery
+* rsync backups
+* tar backups
+* Snapshot concepts
+
+🔹 Best Practices
+* Regular patching
+* Log rotation
+* Principle of least privilege
+* Automation
+
+🔹 Common Interview Questions
+* Difference between soft link and hard link?
+* How to check memory usage?
+* How to find which process is using a port?
+* What happens when Linux boots?
+* How do you troubleshoot a service not starting?
